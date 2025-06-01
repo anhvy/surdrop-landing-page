@@ -61,7 +61,7 @@ export default function Home() {
           </a>
           <a
             className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://expo.dev/preview/update?message=feat%3A%20get%20metadata&updateRuntimeVersion=1.0.0&createdAt=2025-06-01T09%3A05%3A01.687Z&slug=exp&projectId=5c514f4b-2a64-45d9-89e6-7283002a0fe6&group=02cc6424-a754-4c03-b944-0faeee2cc954"
+            href="https://expo.dev/preview/update?message=%5Bwip%5D%3A%20implement%20tusky&updateRuntimeVersion=1.0.0&createdAt=2025-06-01T09%3A51%3A26.853Z&slug=exp&projectId=5c514f4b-2a64-45d9-89e6-7283002a0fe6&group=5e8b6261-4b77-41e4-89b8-522c29dd1b17"
             target="_blank"
             rel="noopener noreferrer"
           >
