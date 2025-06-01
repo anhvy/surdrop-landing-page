@@ -40,7 +40,7 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-            Click "Preview" and scan the QR code with your phone.
+            Click &quot;Preview&quot; and scan the QR code with your phone.
           </li>
         </ol>
         <div className="flex gap-4 items-center flex-col sm:flex-row ml-[180px]">
